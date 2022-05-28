@@ -1,0 +1,2 @@
+# Boston_Train_Operations_Management_System
+Developed a centralized &amp; holistic Train Database Management System for the city of Boston, which facilitates searching schedule &amp; canceling tickets in order to improve the existing system. The database can be used by the user to track his ticket book history &amp; railway administrator can use it to examine the number of tickets booked &amp; their status. When a ticket is booked or canceled, database triggers update the tables.
